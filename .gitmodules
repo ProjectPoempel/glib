@@ -1,0 +1,12 @@
+[submodule "depend/glib-RapidXML"]
+	path = depend/glib-RapidXML
+	url = https://github.com/EnWaffel/glib-RapidXML.git
+[submodule "depend/AudioFile"]
+	path = depend/AudioFile
+	url = https://github.com/adamstark/AudioFile.git
+[submodule "depend/stb"]
+	path = depend/stb
+	url = https://github.com/nothings/stb.git
+[submodule "depend/freetype"]
+	path = depend/freetype
+	url = https://github.com/freetype/freetype.git
