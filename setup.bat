@@ -11,4 +11,5 @@ git clone https://github.com/assimp/assimp.git
 cd ..
 copy scripts\\CMakeLists.txt.win CMakeLists.txt
 
+cls
 echo Done :)
